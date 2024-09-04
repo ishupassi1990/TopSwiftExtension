@@ -1,0 +1,16 @@
+PODS:
+  - TopSwiftExtension (0.1.0)
+
+DEPENDENCIES:
+  - TopSwiftExtension (from `../`)
+
+EXTERNAL SOURCES:
+  TopSwiftExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TopSwiftExtension: 61ca01a8b2d49b461137b138477ff6c531cd3419
+
+PODFILE CHECKSUM: 9e7f2ebeb28b6194d6a07904c77914ecbfdcb48b
+
+COCOAPODS: 1.14.3

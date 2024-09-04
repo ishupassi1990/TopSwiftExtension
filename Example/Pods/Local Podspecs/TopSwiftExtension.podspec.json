@@ -1,0 +1,22 @@
+{
+  "name": "TopSwiftExtension",
+  "version": "0.1.0",
+  "summary": "A short description of TopSwiftExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ishupassi1990/TopSwiftExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ishupassi1990": "ishu@vaultspay.ae"
+  },
+  "source": {
+    "git": "https://github.com/ishupassi1990/TopSwiftExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TopSwiftExtension/Classes/**/*"
+}
